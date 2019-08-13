@@ -38,3 +38,11 @@ User Guide : https://arxiv.org/pdf/1608.00163.pdf
 Social Network, Influence propagation model : https://ieeexplore.ieee.org/abstract/document/8360525/
 
 Modularity Optimisation : https://journals.aps.org/pre/abstract/10.1103/PhysRevE.70.066111
+
+### Deliberate Practice
+
+I stumbled across a youtube video talking about deliberate practice, thought it might be useful to know about it and read a paper on it.
+
+overview : https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1553-2712.2008.00227.x
+
+
