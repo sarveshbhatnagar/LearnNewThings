@@ -39,6 +39,9 @@ Social Network, Influence propagation model : https://ieeexplore.ieee.org/abstra
 
 Modularity Optimisation : https://journals.aps.org/pre/abstract/10.1103/PhysRevE.70.066111
 
+Louvain method : https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008/meta
+
+
 ### Deliberate Practice
 
 I stumbled across a youtube video talking about deliberate practice, thought it might be useful to know about it and read a paper on it.
