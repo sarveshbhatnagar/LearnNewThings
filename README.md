@@ -49,3 +49,19 @@ I stumbled across a youtube video talking about deliberate practice, thought it 
 overview : https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1553-2712.2008.00227.x
 
 
+## Books Read
+
+### Zero to one - Peter Thiel, Blake Masters(currently reading)
+So far so good... :)
+
+### Thinking fast and slow - Daniel Kahneman
+Its a nice book about how we think talks about two different types of systems in our brain, one which calculates and evaluates options and others which reacts first... Its been a while since I read this book, I guess I did when I was in 11th grade at that point in my life I was dull and uninterested in doing things, but I still loved to read about our mind and I am still intrigued by how our brain works... It's a nice book and I recommend it to anyone interested in understanding our brain a bit more. An example from the book which I still remember is something like this, "When asked people to guess how old a particular person is, and before that hinting to a larger number or smaller number, changes the average outcome..." e.g. If I said that My friend's grandfathers age is 2000 yo, and then I ask you to estimate his age, your response would be on the higher end... A trick used by many salespeople.
+
+### Society of mind - Marvin Minsky
+Society of mind is just amazing, It explains the working of different parts of the brain in a friendly and comprehensible manner, despite the inundation with details it is easy to understand and digest. You can find a complete course on this book on youtube, the links are mentioned above...(courses I have done section). That aside, this book converts the complex processes in our brain to a set of basic processes working together as a society with a lot of additional details included. Just grab the book and start reading, I bet you will like it given that you like to read about how our brain possibly works...
+
+### The art of war  - Sun Tzu
+A little is known about the author, the author is one of the legends... He talks about tactics in wars, war is not the topic I am interested about (although I am a little bit, my favorite games are all war games... AOE, Rise of nations, etc.), my main focus in reading this book was for understanding tactics, these tactics should be at one's hand for him to employ them whenever needed. I would like to state an example from the current book which I am reading and the art of war... In the art of war, Sun Tzu says, "Avoid war if its a prolonged one, only pick battles which you can swiftly complete..." This particular statement is in a way used in the book "Zero to one", the author says, "sometimes you do have to fight. Where that's true you should fight and win. There is no middle ground: either don't throw any punches or strike hard and end it quickly."
+
+### Adventures of tom swayer - Mark Twain
+It is the first "real" book I read. I had to mention it, it has an emotional value attached to it. Mark Twain used to be my favorite author and in this book its a nice carefree kid's story namely Tom Swayer with his friend Huckleberry Fin an orphan. 
