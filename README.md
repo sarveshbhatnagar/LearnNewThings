@@ -1,6 +1,10 @@
 # LearnNewThings
 Collection of course materials used to learn something new
 
+## Natural Language Processing with deep learning
+Currently I am doing this course from youtube : https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 , 
+Its fun so far...
+
 ## Artificial Intelligence
 Its my favourite course taught by Prof. Patrick Winston. His teaching style is just amazing, and the course content was easy to digest.
 
