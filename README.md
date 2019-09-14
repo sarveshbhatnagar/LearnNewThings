@@ -47,7 +47,7 @@ Louvain method : https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P1
 
 ### Natural Language Processing
 
-A Maximum Entropy Approach to Natural Language processing : http://delivery.acm.org/10.1145/240000/234289/p39-berger.pdf?ip=136.232.7.230&id=234289&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1568363543_e82f65369f7775c375657e251c0109c7
+A Maximum Entropy Approach to Natural Language processing  : http://www.cs.cornell.edu/courses/cs5740/2016sp/resources/maxent.pdf
 
 
 
